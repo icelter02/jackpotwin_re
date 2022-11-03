@@ -1,0 +1,9 @@
+#ifndef JACKPOTWIN_RE_ABOUTDIAG_INC
+#define JACKPOTWIN_RE_ABOUTDIAG_INC
+
+#define ABOUTDIAG_XSIZE		333
+#define ABOUTDIAG_YSIZE		280
+
+int init_aboutdiag(HWND hWinMain);
+
+#endif

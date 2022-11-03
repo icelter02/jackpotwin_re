@@ -1,0 +1,5 @@
+Text By Dev-C++ Console Sample
+
+Jackpot Game
+The goal of this game is to guess a number.
+Jackpot will tell you if the number is too big or too small compared to the secret number to find.
